@@ -75,4 +75,6 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-ShowTost(String error) {}
+ShowTost(String error) {
+  return AlertDialog(title: Text(error));
+}
