@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "12230191773",
+    "firebase_url": "https://authenticationdemo-53978.firebaseio.com",
+    "project_id": "authenticationdemo-53978",
+    "storage_bucket": "authenticationdemo-53978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12230191773:android:80c93547591393bbf78274",
+        "android_client_info": {
+          "package_name": "com.app.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12230191773-dn8totpj19uout1tj9bvjofr9vgsu2p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkzxMkkg9frEoTejtQnBK5_QZknuRRGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12230191773-dn8totpj19uout1tj9bvjofr9vgsu2p2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12230191773-39j09v9l25s92em5md6ud6r2tosdng29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytask.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12230191773:android:768ca7d7ea517b3ef78274",
+        "android_client_info": {
+          "package_name": "com.app.mytask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12230191773-dn8totpj19uout1tj9bvjofr9vgsu2p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkzxMkkg9frEoTejtQnBK5_QZknuRRGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12230191773-dn8totpj19uout1tj9bvjofr9vgsu2p2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "12230191773-39j09v9l25s92em5md6ud6r2tosdng29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytask.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
